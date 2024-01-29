@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         // step one make 1 frame
-        JFrame frame = new JFrame("hi");
-        frame.setSize(800,800);
+        JFrame frame = new JFrame("bill");
+        frame.setSize(400,300);
 
         // step 2 make panel
         JPanel panel = new JPanel(new GridLayout(4,4,4,4));
